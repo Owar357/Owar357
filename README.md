@@ -12,13 +12,13 @@
   <a href="https://www.linkedin.com/in/tu-perfil" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.facebook.com/tu-perfil" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100090623416338&mibextid=ZbWKwL" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
   <a href="https://twitter.com/tu-perfil" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="mailto:tu-email@gmail.com" target="_blank">
+  <a href="alfaroomar890@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://discord.com/users/tu-id-de-discord" target="_blank">
