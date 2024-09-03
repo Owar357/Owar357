@@ -48,14 +48,14 @@ Soy un desarrollador apasionado por la programación, me encanta construir soluc
 Aquí te comparto algunos de mis proyectos más destacados:
 
 <p align="center">
-  <a href="https://github.com/Owar357/proyecto1" target="_blank">
-    <img src="https://img.shields.io/github/stars/Owar357/proyecto1?style=for-the-badge&logo=github&logoColor=white" alt="Proyecto 1">
+ <a href="https://github.com/Owar357/ProyectoPruebaGachapon" target="_blank">
+    <img src="https://img.shields.io/github/stars/Owar357/ProyectoPruebaGachapon?style=for-the-badge&logo=github&logoColor=white" alt="Proyecto 1">
   </a>
-  <a href="https://github.com/Owar357/proyecto2" target="_blank">
-    <img src="https://img.shields.io/github/stars/Owar357/proyecto2?style=for-the-badge&logo=github&logoColor=white" alt="Proyecto 2">
+  <a href="https://github.com/Owar357/ProyectoGestionBlogs" target="_blank">
+    <img src="https://img.shields.io/github/stars/Owar357/ProyectoGestionBlogs?style=for-the-badge&logo=github&logoColor=white" alt="Proyecto 2">
   </a>
-  <a href="https://github.com/Owar357/proyecto3" target="_blank">
-    <img src="https://img.shields.io/github/stars/Owar357/proyecto3?style=for-the-badge&logo=github&logoColor=white" alt="Proyecto 3">
+  <a href="https://github.com/Owar357/ProyectoAsignacionTareas" target="_blank">
+    <img src="https://img.shields.io/github/stars/Owar357/ProyectoAsignacionTareas?style=for-the-badge&logo=github&logoColor=white" alt="Proyecto 3">
   </a>
 </p>
 
