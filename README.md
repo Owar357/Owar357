@@ -60,9 +60,9 @@ Aquí te comparto algunos de mis proyectos más destacados:
 </p>
 
 <p align="center">
-  <strong>Proyecto 1</strong>: Una breve descripción de lo que hace este proyecto y por qué es interesante.<br>
-  <strong>Proyecto 2</strong>: Una breve descripción de lo que hace este proyecto y por qué es interesante.<br>
-  <strong>Proyecto 3</strong>: Una breve descripción de lo que hace este proyecto y por qué es interesante.
+  <strong>Proyecto 1</strong>:  Una Api que trata de replicar el gachapon de genshinImpact.<br>
+  <strong>Proyecto 2</strong>:  Ver como funciona una aplicacion para gestionar sus distintas paginas web atraves de tags. <br>
+  <strong>Proyecto 3</strong>:  ¿Quieres asignar tareas a tu familia? esta api te  mostrara como .
 </p>
 
 
