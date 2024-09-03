@@ -14,3 +14,12 @@
    
 - 💬 Ven y disfruta de mi Repositorio **Proximamente nuevos proyectos**
 
+
+## 🌟 Mis estadísticas en GitHub
+
+Aquí te comparto algunas estadísticas sobre mi actividad en GitHub:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Owar357&theme=blue-green" alt="Top Langs" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=Owar357&theme=blue-green" alt="GitHub Stats" height="200">
+</p>
