@@ -59,6 +59,13 @@ Aquí te comparto algunos de mis proyectos más destacados:
   </a>
 </p>
 
+<p align="center">
+  <strong>Proyecto 1</strong>: Una breve descripción de lo que hace este proyecto y por qué es interesante.<br>
+  <strong>Proyecto 2</strong>: Una breve descripción de lo que hace este proyecto y por qué es interesante.<br>
+  <strong>Proyecto 3</strong>: Una breve descripción de lo que hace este proyecto y por qué es interesante.
+</p>
+
+
 ## 🌟 Mis estadísticas en GitHub
 
 Aquí te comparto algunas estadísticas sobre mi actividad en GitHub:
