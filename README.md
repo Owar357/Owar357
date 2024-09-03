@@ -18,7 +18,7 @@
   <a href="https://twitter.com/tu-perfil" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="alfaroomar890@gmail.com" target="_blank">
+  <a href="mailto:bart89761@gmail.com"target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://discord.com/users/tu-id-de-discord" target="_blank">
