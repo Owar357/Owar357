@@ -45,3 +45,9 @@ Aquí te comparto algunas estadísticas sobre mi actividad en GitHub:
 ### Herramientas y Programas
 [![My Skills](https://skillicons.dev/icons?i=vscode,postman,figma,git,github)](https://skillicons.dev)
 
+
+## 📫 Sigueme
+
+- [LinkedIn](https://www.linkedin.com/in/tu-perfil) 
+- [Twitter](https://twitter.com/tu-usuario) 
+- [Facebook](https://www.facebook.com/tu-perfil)
