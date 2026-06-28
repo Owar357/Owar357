@@ -13,8 +13,9 @@
   <h2>El Salvador</h2>
 </div>
 
-Soy un desarrollador apasionado por la programación, me encanta construir soluciones innovadoras y eficientes, especialmente en el desarrollo de APIs. Siempre estoy buscando nuevos desafíos y oportunidades para aprender y crecer en el mundo del desarrollo de software.
+Backend developer con 6 años aprendiendo a la mala y a la buena. Me especializo en PHP, Laravel y APIs REST. Creo en el código limpio, la arquitectura sólida y que cada proyecto debe resolver un problema. real — no solo existir.
 
+Actualmente construyo sistemas de gestión comercial para empresas reales. Me mantengo en constante aprendizaje de nuevas tecnologías enfocadas en seguridad, integración y escalabilidad, siempre aplicando buenas prácticas de código.
 
 <p align="center">
 
@@ -45,15 +46,12 @@ Soy un desarrollador apasionado por la programación, me encanta construir soluc
 | [AgroFerretería La Rueda — Backend ](https://github.com/Owar357/AgroFerreteria-La-Rueda-Backend) | API REST construida con Laravel 12, PostgreSQL, JWT auth, Spatie permissions y activity log.Para la gestión de inventario, ventas, compras y caja. Sistema POS para negocio agropecuario real. | ![Laravel](https://skillicons.dev/icons?i=laravel,postgres&theme=dark) |
 | [AgroFerretería La Rueda — Fronted](https://github.com/Owar357/AgroFerreteria-La-Rueda-Fronted) | Interfaz web para punto de venta, registro de compras, historial de ventas y control de caja. | ![Vue](https://skillicons.dev/icons?i=vue,tailwind,js&theme=dark)|
 
-## :dizzy: Mis estadísticas en GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Owar357&layout=compact&theme=tokyonight&border_color=2d0a5e&title_color=d4aaff&text_color=a97bdf" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Owar357&show_icons=true&theme=tokyonight&border_color=2d0a5e&title_color=d4aaff&icon_color=a97bdf&text_color=ffffff" />
-</p>
-
-
 # 🛠️ Mis Stack de Habilidades
+
+## 🏗️ **Arquitecturas y Patrones**
+- ⚡ **MVC**
+- ⚡ **REST**
+- ⚡ **Cliente-Servidor**
 
 ## **Lenguajes** 
 <p align="center">
@@ -91,6 +89,16 @@ Soy un desarrollador apasionado por la programación, me encanta construir soluc
     <img src="https://skillicons.dev/icons?i=git,github,postman,docker " />
   </a>
 </p>
+
+
+## :dizzy: Mis estadísticas en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Owar357&layout=compact&theme=tokyonight&border_color=2d0a5e&title_color=d4aaff&text_color=a97bdf" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Owar357&show_icons=true&theme=tokyonight&border_color=2d0a5e&title_color=d4aaff&icon_color=a97bdf&text_color=ffffff" />
+</p>
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0015,50:2d0a5e,100:0d0015&height=120&section=footer"/>
