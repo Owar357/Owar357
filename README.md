@@ -92,3 +92,9 @@ Soy un desarrollador apasionado por la programación, me encanta construir soluc
   </a>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0015,50:2d0a5e,100:0d0015&height=120&section=footer"/>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Owar357&color=7c3aed&style=for-the-badge&label=VISITAS"/>
+</p>
