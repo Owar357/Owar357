@@ -38,7 +38,7 @@ Soy un desarrollador apasionado por la programación, me encanta construir soluc
 ¡Gracias por visitar mi perfil! Aquí encontrarás información sobre mis proyectos, habilidades y estadísticas en GitHub. Espero que disfrutes explorando mi trabajo y no dudes en dejarme un mensaje.
 
 
-## 🚀 Mis Proyectos Destacados
+## :star: Mis Proyectos Destacados
 
 Aquí te comparto algunos de mis proyectos más destacados:
 
@@ -61,14 +61,13 @@ Aquí te comparto algunos de mis proyectos más destacados:
 </p>
 
 
-## 🌟 Mis estadísticas en GitHub
-
-Aquí te comparto algunas estadísticas sobre mi actividad en GitHub:
+## :dizzy: Mis estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Owar357&theme=blue-green" alt="Top Langs" height="200">
-  <img src="https://github-readme-stats.vercel.app/api?username=Owar357&theme=blue-green" alt="GitHub Stats" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Owar357&layout=compact&theme=tokyonight&border_color=2d0a5e&title_color=d4aaff&text_color=a97bdf" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Owar357&show_icons=true&theme=tokyonight&border_color=2d0a5e&title_color=d4aaff&icon_color=a97bdf&text_color=ffffff" />
 </p>
+
 
 # 🛠️ Mis Stack de Habilidades
 
