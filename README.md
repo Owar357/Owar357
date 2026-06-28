@@ -46,8 +46,8 @@ Aquí te comparto algunos de mis proyectos más destacados:
 
 | Proyecto | Descripción | Tech |
 |----------|-------------|------|
-| [AgroFerretería La Rueda — Backend ](https://github.com/Owar357/AgroFerreteria-La-Rueda-Backend) | API que replica el sistema de gacha de Genshin Impact | ![PHP](https://skillicons.dev/icons?i=php&theme=dark) |
-| [AgroFerretería La Rueda — Fronted](https://github.com/Owar357/AgroFerreteria-La-Rueda-Fronted) | App para gestionar páginas web mediante tags | ![Laravel](https://skillicons.dev/icons?i=laravel&theme=dark) |
+| [AgroFerretería La Rueda — Backend ](https://github.com/Owar357/AgroFerreteria-La-Rueda-Backend) | API REST construida con Laravel 12, PostgreSQL, JWT auth, Spatie permissions y activity log.Para la gestión de inventario, ventas, compras y caja. Sistema POS para negocio agropecuario real. | ![Laravel](https://skillicons.dev/icons?i=laravel,postgres&theme=dark) |
+| [AgroFerretería La Rueda — Fronted](https://github.com/Owar357/AgroFerreteria-La-Rueda-Fronted) | Interfaz web para punto de venta, registro de compras, historial de ventas y control de caja. | ![Vue](https://skillicons.dev/icons?i=vue,js&theme=dark)|
 
 ## :dizzy: Mis estadísticas en GitHub
 
@@ -69,7 +69,7 @@ Aquí te comparto algunos de mis proyectos más destacados:
 ## **Frameworks y Librerías**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,vue" />
+    <img src="https://skillicons.dev/icons?i=laravel,vue,tailwind" />
   </a>
 </p>
 
