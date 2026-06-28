@@ -40,10 +40,6 @@ Soy un desarrollador apasionado por la programación, me encanta construir soluc
 
 ## :star: Mis Proyectos Destacados
 
-Aquí te comparto algunos de mis proyectos más destacados:
-
-## 🚀 Mis Proyectos Destacados
-
 | Proyecto | Descripción | Tech |
 |----------|-------------|------|
 | [AgroFerretería La Rueda — Backend ](https://github.com/Owar357/AgroFerreteria-La-Rueda-Backend) | API REST construida con Laravel 12, PostgreSQL, JWT auth, Spatie permissions y activity log.Para la gestión de inventario, ventas, compras y caja. Sistema POS para negocio agropecuario real. | ![Laravel](https://skillicons.dev/icons?i=laravel,postgres&theme=dark) |
