@@ -75,7 +75,7 @@ Aquí te comparto algunas estadísticas sobre mi actividad en GitHub:
 ## **Lenguajes** 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php " />
+    <img src="https://skillicons.dev/icons?i=php,javascript " />
   </a>
 </p>
 
