@@ -1,4 +1,12 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0015,50:2d0a5e,100:0d0015&height=200&section=header&text=Steven%20Omar%20Alfaro%20Villanueva&fontSize=32&fontColor=d4aaff&fontAlignY=45&desc=Desarrollador%20Backend&descSize=18&descAlignY=65&descColor=a97bdf&animation=fadeIn" />
+</p>
 
+<div align="center">
+  <img src="https://flagcdn.com/48x36/sv.png" alt="El Salvador"/>
+  <br/>
+  <h2>El Salvador</h2>
+</div>
 
 Soy un desarrollador apasionado por la programación, me encanta construir soluciones innovadoras y eficientes, especialmente en el desarrollo de APIs. Siempre estoy buscando nuevos desafíos y oportunidades para aprender y crecer en el mundo del desarrollo de software.
 
@@ -63,3 +71,6 @@ Aquí te comparto algunas estadísticas sobre mi actividad en GitHub:
 ### Herramientas y Programas
 [![My Skills](https://skillicons.dev/icons?i=vscode,postman,figma,git,github)](https://skillicons.dev)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0015,50:2d0a5e,100:0d0015&height=120&section=footer" />
+</p>
