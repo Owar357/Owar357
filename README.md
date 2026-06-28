@@ -18,14 +18,22 @@ Soy un desarrollador apasionado por la programación, me encanta construir soluc
 
 <p align="center">
 
- ### ¿Qué hago?
+ ## :star: Sobre mí
 </p>
 
-- 🔭  Actualmente trabajo en proyectos usando PHP y Laravel, y estoy siempre explorando nuevas tecnologías y herramientas para mejorar mis habilidades.
- 
-- 🌱 Me encanta aprender sobre nuevas técnicas y mejores prácticas en el desarrollo de software. Mi objetivo es construir aplicaciones robustas y escalables.
+```txt
+ "A prueba y error el conocimiento se pule"
+```
+
+- :wrench:  Actualmente construyendo APIs REST con **PHP + Laravel**
+
+- :mag: Explorando **Docker**, **CI/CD** y buenas prácticas de arquitectura
    
-- 💬 Si te interesa el desarrollo de software, APIs o simplemente quieres charlar sobre tecnología, no dudes en contactarme. ¡Estoy abierto a colaboraciones y nuevas ideas!
+- :fire: Me obsesiona que las cosas funcionen rápido y bien desde el backend
+
+- :metal: Abierto a colaborar en proyectos open source e ideas locas
+
+- sv Desarrollador salvadoreño construyendo desde El Salvador para el mundo
 
 ¡Gracias por visitar mi perfil! Aquí encontrarás información sobre mis proyectos, habilidades y estadísticas en GitHub. Espero que disfrutes explorando mi trabajo y no dudes en dejarme un mensaje.
 
