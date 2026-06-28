@@ -47,7 +47,7 @@ Aquí te comparto algunos de mis proyectos más destacados:
 | Proyecto | Descripción | Tech |
 |----------|-------------|------|
 | [AgroFerretería La Rueda — Backend ](https://github.com/Owar357/AgroFerreteria-La-Rueda-Backend) | API REST construida con Laravel 12, PostgreSQL, JWT auth, Spatie permissions y activity log.Para la gestión de inventario, ventas, compras y caja. Sistema POS para negocio agropecuario real. | ![Laravel](https://skillicons.dev/icons?i=laravel,postgres&theme=dark) |
-| [AgroFerretería La Rueda — Fronted](https://github.com/Owar357/AgroFerreteria-La-Rueda-Fronted) | Interfaz web para punto de venta, registro de compras, historial de ventas y control de caja. | ![Vue](https://skillicons.dev/icons?i=vue,js&theme=dark)|
+| [AgroFerretería La Rueda — Fronted](https://github.com/Owar357/AgroFerreteria-La-Rueda-Fronted) | Interfaz web para punto de venta, registro de compras, historial de ventas y control de caja. | ![Vue](https://skillicons.dev/icons?i=vue,tailwind,js&theme=dark)|
 
 ## :dizzy: Mis estadísticas en GitHub
 
@@ -73,6 +73,12 @@ Aquí te comparto algunos de mis proyectos más destacados:
   </a>
 </p>
 
+## **Autenticación**
+<p align="center">
+  <a href="https://github.com/syvixor/skills-icons">
+    <img src="https://skills.syvixor.com/api/icons?i=jwt" />
+  </a>
+</p>
 
 ## **Bases de Datos**
 <p align="center">
