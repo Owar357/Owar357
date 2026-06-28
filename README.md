@@ -13,7 +13,7 @@
   <h2>El Salvador</h2>
 </div>
 
-Backend developer con 6 años aprendiendo a la mala y a la buena. Me especializo en PHP, Laravel y APIs REST. Creo en el código limpio, la arquitectura sólida y que cada proyecto debe resolver un problema. real — no solo existir.
+Backend developer con 6 años aprendiendo a la mala y a la buena. Me especializo en PHP, Laravel y APIs REST. Creo en el código limpio, la arquitectura sólida y que cada proyecto debe resolver un problema real — no solo existir.
 
 Actualmente construyo sistemas de gestión comercial para empresas reales. Me mantengo en constante aprendizaje de nuevas tecnologías enfocadas en seguridad, integración y escalabilidad, siempre aplicando buenas prácticas de código.
 
