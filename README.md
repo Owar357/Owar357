@@ -1,6 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0015,50:2d0a5e,100:0d0015&height=200&section=header&text=Steven%20Omar%20Alfaro%20Villanueva&fontSize=32&fontColor=d4aaff&fontAlignY=45&desc=Desarrollador%20Backend&descSize=18&descAlignY=65&descColor=a97bdf&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0015,50:2d0a5e,100:0d0015&height=250&section=header&text=Steven%20Omar%20Alfaro%20Villanueva&fontSize=40&fontColor=d4aaff&fontAlignY=40descSize=22&descAlignY=58&descColor=a97bdf&animation=fadeIn" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A97BDF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Laravel+%2B+PHP+Lover+%E2%9D%A4%EF%B8%8F;API+Builder+%F0%9F%94%A5;Siempre+aprendiendo+algo+nuevo+%F0%9F%93%9A" />
+</p>
+
 
 <div align="center">
   <img src="https://flagcdn.com/48x36/sv.png" alt="El Salvador"/>
