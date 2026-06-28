@@ -70,20 +70,36 @@ Aquí te comparto algunas estadísticas sobre mi actividad en GitHub:
   <img src="https://github-readme-stats.vercel.app/api?username=Owar357&theme=blue-green" alt="GitHub Stats" height="200">
 </p>
 
-## 🛠️ Mis Habilidades
+### 🛠️ Mis Stack de Habilidade
 
-### Lenguajes de Programación
-[![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
+## **Lenguajes** 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php " />
+  </a>
+</p>
 
-### Frameworks y Librerías
-[![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
+## **Frameworks y Librerías**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,vue" />
+  </a>
+</p>
+
 
 ### Bases de Datos
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres " />
+  </a>
+</p>
 
-### Herramientas y Programas
-[![My Skills](https://skillicons.dev/icons?i=vscode,postman,figma,git,github)](https://skillicons.dev)
+
+##  **Herramientas y Programas**
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0015,50:2d0a5e,100:0d0015&height=120&section=footer" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postman " />
+  </a>
 </p>
+
