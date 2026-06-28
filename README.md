@@ -42,24 +42,12 @@ Soy un desarrollador apasionado por la programación, me encanta construir soluc
 
 Aquí te comparto algunos de mis proyectos más destacados:
 
-<p align="center">
- <a href="https://github.com/Owar357/ProyectoPruebaGachapon" target="_blank">
-    <img src="https://img.shields.io/github/stars/Owar357/ProyectoPruebaGachapon?style=for-the-badge&logo=github&logoColor=white" alt="Proyecto 1">
-  </a>
-  <a href="https://github.com/Owar357/ProyectoGestionBlogs" target="_blank">
-    <img src="https://img.shields.io/github/stars/Owar357/ProyectoGestionBlogs?style=for-the-badge&logo=github&logoColor=white" alt="Proyecto 2">
-  </a>
-  <a href="https://github.com/Owar357/ProyectoAsignacionTareas" target="_blank">
-    <img src="https://img.shields.io/github/stars/Owar357/ProyectoAsignacionTareas?style=for-the-badge&logo=github&logoColor=white" alt="Proyecto 3">
-  </a>
-</p>
+## 🚀 Mis Proyectos Destacados
 
-<p align="center">
-  <strong>Proyecto 1</strong>:  Una Api que trata de replicar el gachapon de genshinImpact.<br>
-  <strong>Proyecto 2</strong>:  Ver como funciona una aplicacion para gestionar sus distintas paginas web atraves de tags. <br>
-  <strong>Proyecto 3</strong>:  ¿Quieres asignar tareas a tu familia? esta api te  mostrara como .
-</p>
-
+| Proyecto | Descripción | Tech |
+|----------|-------------|------|
+| [AgroFerretería La Rueda — Backend ](https://github.com/Owar357/AgroFerreteria-La-Rueda-Backend) | API que replica el sistema de gacha de Genshin Impact | ![PHP](https://skillicons.dev/icons?i=php&theme=dark) |
+| [AgroFerretería La Rueda — Fronted](https://github.com/Owar357/AgroFerreteria-La-Rueda-Fronted) | App para gestionar páginas web mediante tags | ![Laravel](https://skillicons.dev/icons?i=laravel&theme=dark) |
 
 ## :dizzy: Mis estadísticas en GitHub
 
