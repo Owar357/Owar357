@@ -70,7 +70,7 @@ Aquí te comparto algunas estadísticas sobre mi actividad en GitHub:
   <img src="https://github-readme-stats.vercel.app/api?username=Owar357&theme=blue-green" alt="GitHub Stats" height="200">
 </p>
 
-### 🛠️ Mis Stack de Habilidades
+# 🛠️ Mis Stack de Habilidades
 
 ## **Lenguajes** 
 <p align="center">
@@ -99,7 +99,7 @@ Aquí te comparto algunas estadísticas sobre mi actividad en GitHub:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman " />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,docker " />
   </a>
 </p>
 
