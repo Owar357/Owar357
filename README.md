@@ -95,7 +95,9 @@ Actualmente construyo sistemas de gestión comercial para empresas reales. Me ma
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Owar357&layout=compact&theme=tokyonight&border_color=2d0a5e&title_color=d4aaff&text_color=a97bdf" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Owar357&show_icons=true&theme=tokyonight&border_color=2d0a5e&title_color=d4aaff&icon_color=a97bdf&text_color=ffffff" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Owar357&theme=tokyonight&border=2d0a5e&ring=a97bdf&fire=d4aaff&currStreakLabel=d4aaff" />
 </p>
 
 
